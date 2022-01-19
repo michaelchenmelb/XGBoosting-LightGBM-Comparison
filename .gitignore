@@ -13,3 +13,5 @@ scripts/development/
 test/
 log/
 
+*.ipynb_checkpoints
+*.gitattributes
